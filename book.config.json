@@ -1,0 +1,17 @@
+{
+  "title": "Atlas of Feeling",
+  "subtitle": "The Atlas of Human Feeling",
+  "genre": "Psychology / self-help",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "A guide to every human emotion — 33 chapters, one per emotion, explaining what each feeling is, why it exists, and how to live with it.",
+  "style": "Warm, precise, accessible prose. Each chapter: definition, science, lived experience, practical guidance.",
+  "characters": "The reader — anyone learning to understand their emotions.",
+  "setting": "None — universal.",
+  "notes": "Continue with the next emotion in sequence (the book has 33 planned chapters). Structure each chapter like the existing ones: what the emotion is, where it comes from, how it shows up, how to work with it.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v1.0/book.html"],
+  "htmlFiles": [],
+  "indexInject": null,
+  "mdHeadingLevel": 2,
+  "targetWords": 2000
+}
